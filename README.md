@@ -20,7 +20,7 @@ Sample solution for the [Simple weather API - ](https://roadmap.sh/projects/weat
 ```bash
 go run main.go
 ```
-##Usage
+###Usage
 Send a GET request to the following endpoint
 ```
 http://localhost:8080/GetWeather/<city_name>
