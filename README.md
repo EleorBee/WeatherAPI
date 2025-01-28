@@ -1,5 +1,5 @@
 # WeatherAPI
-Sample solution for the [Simple weather API - ](https://roadmap.sh/projects/weather-api-wrapper-service) challenge from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
+Sample solution for the [Simple weather API](https://roadmap.sh/projects/weather-api-wrapper-service) challenge from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 ## How to run
 1. Clone the repository
