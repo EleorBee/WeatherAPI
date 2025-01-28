@@ -1,0 +1,9 @@
+endpoint: "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/"
+port: "8080"
+#Settings rate limited
+#Number of requests per second
+limit: 2
+#Maximum number of requests allowed to burst
+max-request: 5
+#Resets the limit after a while
+reset-limit: 60s
